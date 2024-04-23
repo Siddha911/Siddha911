@@ -3,8 +3,8 @@
 ## About me
 - 💻 I’m a data enginner
 - 🌱 I’m currently learning and extending my data engineering stack
-- 🚧 I’m looking to further expand my portfolio by making new data-oriented projects.
-- 📫 You can reach me on [Telegram](t.me/siddha911) or by email: sitnikovks911@gmail.com
+- 🚧 I’m looking to further expand my portfolio by making new data-oriented projects
+- 📫 Feel free to reach me on [Telegram](t.me/siddha911)
 
 
 <!---
